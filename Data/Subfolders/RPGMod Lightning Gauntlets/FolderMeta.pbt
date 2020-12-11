@@ -1,0 +1,187 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "78cac7556d2f4a2a884b9727f843b320"
+  OwnerAccountId: "39aad9eeee9a407086c09c3830268424"
+  OwnerName: "LordCail"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 3440556768357052
+  value: 16686747914097538098
+}
+AssetIdsOriginalToNew {
+  key: 280178326810301169
+  value: 16874948054555182580
+}
+AssetIdsOriginalToNew {
+  key: 1627768666672487541
+  value: 15509983221428800766
+}
+AssetIdsOriginalToNew {
+  key: 1826362238009472655
+  value: 2734002791856844912
+}
+AssetIdsOriginalToNew {
+  key: 1926566061673740117
+  value: 6284867340908049601
+}
+AssetIdsOriginalToNew {
+  key: 3415634170262946754
+  value: 17209084096333766507
+}
+AssetIdsOriginalToNew {
+  key: 4249846037146434014
+  value: 10032110242001956709
+}
+AssetIdsOriginalToNew {
+  key: 4528226107671091286
+  value: 12032375470898770104
+}
+AssetIdsOriginalToNew {
+  key: 4813560666195987458
+  value: 12420304606724211218
+}
+AssetIdsOriginalToNew {
+  key: 5041402601891404857
+  value: 6396331111318379789
+}
+AssetIdsOriginalToNew {
+  key: 5083892823517270807
+  value: 11804270748915236410
+}
+AssetIdsOriginalToNew {
+  key: 5951576985278441404
+  value: 5612885528516673515
+}
+AssetIdsOriginalToNew {
+  key: 6701706561033458323
+  value: 14539320572155153459
+}
+AssetIdsOriginalToNew {
+  key: 7063955853738027870
+  value: 12966048884406711915
+}
+AssetIdsOriginalToNew {
+  key: 7113321761909710728
+  value: 6757231608497105729
+}
+AssetIdsOriginalToNew {
+  key: 7370881381363581907
+  value: 1752788471982253188
+}
+AssetIdsOriginalToNew {
+  key: 7715070658749507733
+  value: 9539304556214601812
+}
+AssetIdsOriginalToNew {
+  key: 7885891860538456352
+  value: 1260154829357531072
+}
+AssetIdsOriginalToNew {
+  key: 7970186821847272204
+  value: 11147217254208022139
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 9232647368511788703
+}
+AssetIdsOriginalToNew {
+  key: 9954759727315141345
+  value: 2253025641129931018
+}
+AssetIdsOriginalToNew {
+  key: 10128800692691620735
+  value: 1816236822297244876
+}
+AssetIdsOriginalToNew {
+  key: 10307104586071095966
+  value: 312079081912515753
+}
+AssetIdsOriginalToNew {
+  key: 11011485999056658889
+  value: 2123598290950514137
+}
+AssetIdsOriginalToNew {
+  key: 11684566619117407627
+  value: 4436588507122184242
+}
+AssetIdsOriginalToNew {
+  key: 12038786286377658775
+  value: 12766229945161155321
+}
+AssetIdsOriginalToNew {
+  key: 12081688999681747622
+  value: 9425146724190595646
+}
+AssetIdsOriginalToNew {
+  key: 12190407984170945638
+  value: 16688954906999122092
+}
+AssetIdsOriginalToNew {
+  key: 12263187462426318576
+  value: 10322118844037744623
+}
+AssetIdsOriginalToNew {
+  key: 12523963092521942104
+  value: 6229256855383952381
+}
+AssetIdsOriginalToNew {
+  key: 13048726932365597405
+  value: 13808889374394101448
+}
+AssetIdsOriginalToNew {
+  key: 13271048515256431745
+  value: 17555287543012859528
+}
+AssetIdsOriginalToNew {
+  key: 14336822054534379197
+  value: 3902934609476636989
+}
+AssetIdsOriginalToNew {
+  key: 14738777972455641547
+  value: 731155459946379252
+}
+AssetIdsOriginalToNew {
+  key: 14822037268672609858
+  value: 3725240506963046969
+}
+AssetIdsOriginalToNew {
+  key: 15734496395809884519
+  value: 7293441852326292423
+}
+AssetIdsOriginalToNew {
+  key: 15760238611816808608
+  value: 12948613077936234472
+}
+AssetIdsOriginalToNew {
+  key: 15904158301054682227
+  value: 2111595865947223131
+}
+AssetIdsOriginalToNew {
+  key: 16538165208855870725
+  value: 227752132377635915
+}
+AssetIdsOriginalToNew {
+  key: 16817312316022388482
+  value: 2905072690356982383
+}
+AssetIdsOriginalToNew {
+  key: 16867599572493312033
+  value: 4144815662687185234
+}
+AssetIdsOriginalToNew {
+  key: 17395523436488133151
+  value: 3505449086520798703
+}
+AssetIdsOriginalToNew {
+  key: 17409621347720763463
+  value: 2597724707911670556
+}
+AssetIdsOriginalToNew {
+  key: 17582749133931234521
+  value: 1766025515220031830
+}
+AssetIdsOriginalToNew {
+  key: 17892880009811947361
+  value: 7131916299446774733
+}

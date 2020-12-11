@@ -1,0 +1,99 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "accffe6378fc4b0b9248194784f6b1d3"
+  OwnerAccountId: "94d3fd50c4824f019421895ec8dbf099"
+  OwnerName: "Mucusinator"
+  Version: "1.3.0"
+}
+AssetIdsOriginalToNew {
+  key: 2824537268192990198
+  value: 2502635004440984284
+}
+AssetIdsOriginalToNew {
+  key: 3148182538097112257
+  value: 16260473939818429634
+}
+AssetIdsOriginalToNew {
+  key: 4414693646959300728
+  value: 4273725963657696793
+}
+AssetIdsOriginalToNew {
+  key: 4952910144796388348
+  value: 14809062406766973097
+}
+AssetIdsOriginalToNew {
+  key: 5587032380660140950
+  value: 3501824235318183291
+}
+AssetIdsOriginalToNew {
+  key: 5660911369504050738
+  value: 14207078773259332201
+}
+AssetIdsOriginalToNew {
+  key: 6045972176262856178
+  value: 18420302692031020508
+}
+AssetIdsOriginalToNew {
+  key: 6448146367786537894
+  value: 891003518903976738
+}
+AssetIdsOriginalToNew {
+  key: 10438160574124345393
+  value: 1498389003180973289
+}
+AssetIdsOriginalToNew {
+  key: 10568706750666346726
+  value: 6634475746459481463
+}
+AssetIdsOriginalToNew {
+  key: 11373800491489537471
+  value: 15124675771791915711
+}
+AssetIdsOriginalToNew {
+  key: 11792576904291017051
+  value: 16331136015755154922
+}
+AssetIdsOriginalToNew {
+  key: 11854190711742614944
+  value: 3850383573290048960
+}
+AssetIdsOriginalToNew {
+  key: 11878416380290915529
+  value: 3297065674394155842
+}
+AssetIdsOriginalToNew {
+  key: 13186504544997569753
+  value: 15456420991605886886
+}
+AssetIdsOriginalToNew {
+  key: 15228265818748844756
+  value: 16369872256551757806
+}
+AssetIdsOriginalToNew {
+  key: 15275528772834752360
+  value: 2958095853383014213
+}
+AssetIdsOriginalToNew {
+  key: 15281803147825910209
+  value: 6730616576021724939
+}
+AssetIdsOriginalToNew {
+  key: 15347273777538076141
+  value: 5559061952198770649
+}
+AssetIdsOriginalToNew {
+  key: 15552550078236454755
+  value: 18085838364965315929
+}
+AssetIdsOriginalToNew {
+  key: 15643893055035460855
+  value: 4279555212915824462
+}
+AssetIdsOriginalToNew {
+  key: 15859347294347160100
+  value: 14337458362857593283
+}
+AssetIdsOriginalToNew {
+  key: 17645063670920656322
+  value: 17643456217936469429
+}

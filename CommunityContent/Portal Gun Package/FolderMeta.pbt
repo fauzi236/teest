@@ -1,0 +1,107 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "c94568a57a704331968480d0307996c3"
+  OwnerAccountId: "f261f4bb05b44bb2bf465b8a8346491f"
+  OwnerName: "WaveParadigm"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 258587589873383137
+  value: 302048766943049302
+}
+AssetIdsOriginalToNew {
+  key: 1404757696694120905
+  value: 3735408885017884801
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 8431966511440482876
+}
+AssetIdsOriginalToNew {
+  key: 1774733063885832935
+  value: 10856544246221530764
+}
+AssetIdsOriginalToNew {
+  key: 1904260413564998578
+  value: 4134292765099946258
+}
+AssetIdsOriginalToNew {
+  key: 3643167645458823169
+  value: 3592648621456608324
+}
+AssetIdsOriginalToNew {
+  key: 4966562753303390297
+  value: 5289195026553242434
+}
+AssetIdsOriginalToNew {
+  key: 5543331104616232062
+  value: 10795641925549662918
+}
+AssetIdsOriginalToNew {
+  key: 5696694156734205724
+  value: 15709293489796589842
+}
+AssetIdsOriginalToNew {
+  key: 6026618636951158443
+  value: 7737989026022408046
+}
+AssetIdsOriginalToNew {
+  key: 6245510648555153476
+  value: 17831354899130502216
+}
+AssetIdsOriginalToNew {
+  key: 6979087420815199763
+  value: 5843779911369234257
+}
+AssetIdsOriginalToNew {
+  key: 6983826715688078157
+  value: 4706837415205227484
+}
+AssetIdsOriginalToNew {
+  key: 7413504999894964414
+  value: 15907413171967861879
+}
+AssetIdsOriginalToNew {
+  key: 7534555390048841068
+  value: 11305040399424744224
+}
+AssetIdsOriginalToNew {
+  key: 8214914048189771564
+  value: 18199280405841957938
+}
+AssetIdsOriginalToNew {
+  key: 8909617533534880846
+  value: 16883278020804790178
+}
+AssetIdsOriginalToNew {
+  key: 9189846498424228462
+  value: 913237667239109633
+}
+AssetIdsOriginalToNew {
+  key: 10327035049750579130
+  value: 17338000470654057141
+}
+AssetIdsOriginalToNew {
+  key: 10698366778889234061
+  value: 17642369506464294682
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 15448205940888219718
+}
+AssetIdsOriginalToNew {
+  key: 12908667537330735381
+  value: 11712845885748375239
+}
+AssetIdsOriginalToNew {
+  key: 13447632035158924098
+  value: 2627813411772716560
+}
+AssetIdsOriginalToNew {
+  key: 14996809822181438558
+  value: 15049878098362046925
+}
+AssetIdsOriginalToNew {
+  key: 16427592452639931128
+  value: 9047846662071793101
+}

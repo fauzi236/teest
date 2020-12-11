@@ -1,0 +1,91 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "f1acbf611b174ed8846225755ddd57b3"
+  OwnerAccountId: "39aad9eeee9a407086c09c3830268424"
+  OwnerName: "LordCail"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 171090409284182791
+  value: 5491843738368501802
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 14351543969993140377
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 2553100356009008805
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 14863974018409737616
+}
+AssetIdsOriginalToNew {
+  key: 1970105428586059764
+  value: 17589409593775266650
+}
+AssetIdsOriginalToNew {
+  key: 4020958367257585299
+  value: 1714445013562413435
+}
+AssetIdsOriginalToNew {
+  key: 6701706561033458323
+  value: 2264089935883464386
+}
+AssetIdsOriginalToNew {
+  key: 7445855579671141283
+  value: 3947155527784582521
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 11313745541143538242
+}
+AssetIdsOriginalToNew {
+  key: 8799101599018051692
+  value: 8264541365589510590
+}
+AssetIdsOriginalToNew {
+  key: 9748598691135565465
+  value: 9388139813270727079
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 10532720434030862510
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 5304788693866367803
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 14643379565797197925
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 3303425995818048390
+}
+AssetIdsOriginalToNew {
+  key: 12971704803185333098
+  value: 11411921313188069791
+}
+AssetIdsOriginalToNew {
+  key: 13283965568239669324
+  value: 17532339880203193266
+}
+AssetIdsOriginalToNew {
+  key: 15248574229477717252
+  value: 11075542219151353565
+}
+AssetIdsOriginalToNew {
+  key: 15760238611816808608
+  value: 1700440296786313102
+}
+AssetIdsOriginalToNew {
+  key: 15810894035057021327
+  value: 5228616518184625847
+}
+AssetIdsOriginalToNew {
+  key: 17352210081259493855
+  value: 435874520738972291
+}

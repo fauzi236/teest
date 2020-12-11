@@ -1,0 +1,187 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "94ab2bb54768484c903cfd715aa282ba"
+  OwnerAccountId: "a7fa1014cab64595bee90b0049070c8e"
+  OwnerName: "AphrimCreates"
+  Version: "1.1.0"
+}
+AssetIdsOriginalToNew {
+  key: 326553620242719265
+  value: 13455629931608779739
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 15276387815794008198
+}
+AssetIdsOriginalToNew {
+  key: 2625709064253631720
+  value: 9788329113145323471
+}
+AssetIdsOriginalToNew {
+  key: 3082092851850044554
+  value: 11046914233191239287
+}
+AssetIdsOriginalToNew {
+  key: 3097349354321076729
+  value: 7634803475726260045
+}
+AssetIdsOriginalToNew {
+  key: 3194930412626622494
+  value: 17594866160553201911
+}
+AssetIdsOriginalToNew {
+  key: 4365556705566401396
+  value: 5673364165858019741
+}
+AssetIdsOriginalToNew {
+  key: 6893986948569522536
+  value: 913307473982519669
+}
+AssetIdsOriginalToNew {
+  key: 7300386228413817757
+  value: 1967280161672036220
+}
+AssetIdsOriginalToNew {
+  key: 7445855579671141283
+  value: 1881087762029128713
+}
+AssetIdsOriginalToNew {
+  key: 8218952462223488533
+  value: 2053878635579109485
+}
+AssetIdsOriginalToNew {
+  key: 8799101599018051692
+  value: 5128157103761434152
+}
+AssetIdsOriginalToNew {
+  key: 9069323910363715510
+  value: 5210533525703958093
+}
+AssetIdsOriginalToNew {
+  key: 9302074189732840507
+  value: 1458127138200258688
+}
+AssetIdsOriginalToNew {
+  key: 9337374837560548901
+  value: 8752547540195743860
+}
+AssetIdsOriginalToNew {
+  key: 9748598691135565465
+  value: 8780585735369979362
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 17822500352787508847
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 15769406533106303526
+}
+AssetIdsOriginalToNew {
+  key: 10214226627276852402
+  value: 11077190292783209138
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 13561601808009803611
+}
+AssetIdsOriginalToNew {
+  key: 10588745457086951709
+  value: 17708302805362206834
+}
+AssetIdsOriginalToNew {
+  key: 10623924581151284827
+  value: 4412339646031544929
+}
+AssetIdsOriginalToNew {
+  key: 10817174361597812643
+  value: 3028144177380773664
+}
+AssetIdsOriginalToNew {
+  key: 11737907257498020315
+  value: 2098612517631393339
+}
+AssetIdsOriginalToNew {
+  key: 12028654094095705589
+  value: 15777939757162407622
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 7445923414177816274
+}
+AssetIdsOriginalToNew {
+  key: 12619508543677218259
+  value: 14784469035783141351
+}
+AssetIdsOriginalToNew {
+  key: 13039838708654056087
+  value: 1237309454664517160
+}
+AssetIdsOriginalToNew {
+  key: 13807498153521726515
+  value: 5982635672862390540
+}
+AssetIdsOriginalToNew {
+  key: 13900912610492007651
+  value: 9047151169330356268
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 5622422806510436695
+}
+AssetIdsOriginalToNew {
+  key: 14545793288464601998
+  value: 13959744079432167681
+}
+AssetIdsOriginalToNew {
+  key: 14830752989507452878
+  value: 16793963293479482276
+}
+AssetIdsOriginalToNew {
+  key: 14956085254690014442
+  value: 5816636974639154490
+}
+AssetIdsOriginalToNew {
+  key: 15248574229477717252
+  value: 9475917938054996468
+}
+AssetIdsOriginalToNew {
+  key: 15810894035057021327
+  value: 14683739332953942541
+}
+AssetIdsOriginalToNew {
+  key: 15860091160598886435
+  value: 9591694861450933843
+}
+AssetIdsOriginalToNew {
+  key: 16681225148886063444
+  value: 10020715309811094803
+}
+AssetIdsOriginalToNew {
+  key: 16762436006407955362
+  value: 85805311125843074
+}
+AssetIdsOriginalToNew {
+  key: 17134926086803901810
+  value: 18081783716073050377
+}
+AssetIdsOriginalToNew {
+  key: 17312711242639956837
+  value: 9076390118260186901
+}
+AssetIdsOriginalToNew {
+  key: 17585788313287667026
+  value: 3004040884231589831
+}
+AssetIdsOriginalToNew {
+  key: 17595504916760055462
+  value: 3273284891767022262
+}
+AssetIdsOriginalToNew {
+  key: 17633993702581135165
+  value: 4088760469612954519
+}
+AssetIdsOriginalToNew {
+  key: 18030314611098076105
+  value: 1515991383129791534
+}

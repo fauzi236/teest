@@ -1,0 +1,71 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "a3d5f5c3c32f4ce1903e3cff2b25fb14"
+  OwnerAccountId: "abe449764b9e4751b827b41a4272a0de"
+  OwnerName: "DBalog83"
+  Version: "1.1.0"
+}
+AssetIdsOriginalToNew {
+  key: 171090409284182791
+  value: 14015411504627802764
+}
+AssetIdsOriginalToNew {
+  key: 223563806409692701
+  value: 6473636073678355131
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 2105559536815475382
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 8556499867706880741
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 8476761871805541130
+}
+AssetIdsOriginalToNew {
+  key: 1970105428586059764
+  value: 14489366240359799829
+}
+AssetIdsOriginalToNew {
+  key: 3444713434676079898
+  value: 15099794410241357178
+}
+AssetIdsOriginalToNew {
+  key: 4020958367257585299
+  value: 3603204248380029921
+}
+AssetIdsOriginalToNew {
+  key: 5082628058110625875
+  value: 15033419673112968569
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 14392081869546041730
+}
+AssetIdsOriginalToNew {
+  key: 10475138612947343378
+  value: 2271422031218585629
+}
+AssetIdsOriginalToNew {
+  key: 10908590784396090535
+  value: 2133378419139311930
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 18271880518644099120
+}
+AssetIdsOriginalToNew {
+  key: 12971704803185333098
+  value: 10258853801422510148
+}
+AssetIdsOriginalToNew {
+  key: 14406526676151773364
+  value: 4743405443648728095
+}
+AssetIdsOriginalToNew {
+  key: 15106765800180580471
+  value: 16416713018975003375
+}

@@ -1,0 +1,103 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "3f806e6b618c4d92bd83c5cea8bcc59a"
+  OwnerAccountId: "3d42b0a22c73407ea970056993707076"
+  OwnerName: "Zaiya"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 17903505869491989828
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 8826102919254926667
+}
+AssetIdsOriginalToNew {
+  key: 1533686442705312849
+  value: 2730891525806070485
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 13075204203496699233
+}
+AssetIdsOriginalToNew {
+  key: 1770640595742895251
+  value: 2288140022398220221
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 4088563958021988319
+}
+AssetIdsOriginalToNew {
+  key: 3452198850354539067
+  value: 789849650861193708
+}
+AssetIdsOriginalToNew {
+  key: 5107878145730900708
+  value: 12895965303641705561
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 11905222845425985847
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 11706198193038264742
+}
+AssetIdsOriginalToNew {
+  key: 7560597166793505463
+  value: 918430319283667258
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 14338324549803733982
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 6400060653328607254
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 537516114648563408
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 4491378374525502952
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 18036043854245611592
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 17903420748129498281
+}
+AssetIdsOriginalToNew {
+  key: 13298384700354758282
+  value: 9320263461089178723
+}
+AssetIdsOriginalToNew {
+  key: 14165426133058006389
+  value: 299789488968026660
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 8074565488621663537
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 13131891038807496392
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 9568112235152292562
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 15947000158992960456
+}
+AssetIdsOriginalToNew {
+  key: 17206843628081591139
+  value: 5224065350858360906
+}

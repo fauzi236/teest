@@ -1,0 +1,71 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "d48df0bbdb164eb6a3aeeba5fb9a4103"
+  OwnerAccountId: "2a0bc5c4beb744b4a93e1e83c1030ae7"
+  OwnerName: "OSHU"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 36480472865645184
+  value: 3866297849386312880
+}
+AssetIdsOriginalToNew {
+  key: 171090409284182791
+  value: 13560218147548853161
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 1577434224359010639
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 7303111338394088272
+}
+AssetIdsOriginalToNew {
+  key: 5089750161026654904
+  value: 16492836676519751837
+}
+AssetIdsOriginalToNew {
+  key: 5171578321166728704
+  value: 14353373287472425594
+}
+AssetIdsOriginalToNew {
+  key: 8113725433182133795
+  value: 10375098605924017546
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 11361083231952575129
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 12909671495849183573
+}
+AssetIdsOriginalToNew {
+  key: 13198398687340247497
+  value: 4987257426178844074
+}
+AssetIdsOriginalToNew {
+  key: 13253325870475057691
+  value: 1581450026575604901
+}
+AssetIdsOriginalToNew {
+  key: 14277873706906810987
+  value: 13477475751576698036
+}
+AssetIdsOriginalToNew {
+  key: 15663184265292461940
+  value: 7842417246930838090
+}
+AssetIdsOriginalToNew {
+  key: 17611672696088004268
+  value: 14715295288050223606
+}
+AssetIdsOriginalToNew {
+  key: 17823889092330232652
+  value: 15719722214785105848
+}
+AssetIdsOriginalToNew {
+  key: 18403044146386498216
+  value: 5219467177321682123
+}

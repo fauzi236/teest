@@ -1,0 +1,63 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "1b59660ebf45423e9e503a8079aa9181"
+  OwnerAccountId: "fb485e85a0314e28a08a2db5ad43aab9"
+  OwnerName: "Morezoid"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 1622167128720840953
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 16037405167329883336
+}
+AssetIdsOriginalToNew {
+  key: 3144871937647846964
+  value: 6990145084594744475
+}
+AssetIdsOriginalToNew {
+  key: 7747714730524007686
+  value: 8648876648926696877
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 17999259116319474902
+}
+AssetIdsOriginalToNew {
+  key: 10267265713118443752
+  value: 16443359885669657023
+}
+AssetIdsOriginalToNew {
+  key: 10464718583626148499
+  value: 2371855801090823794
+}
+AssetIdsOriginalToNew {
+  key: 11481617001287633814
+  value: 7056788922524624771
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 9937290061765303781
+}
+AssetIdsOriginalToNew {
+  key: 14458105625256644413
+  value: 12676351762404315258
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 14815419253427996039
+}
+AssetIdsOriginalToNew {
+  key: 16158981212230627021
+  value: 5069492250534059589
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 9709921942415913984
+}
+AssetIdsOriginalToNew {
+  key: 17364311008383530057
+  value: 3227920533597622135
+}
